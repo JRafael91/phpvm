@@ -4,6 +4,9 @@
 
 A command-line tool to manage multiple PHP versions on your system.
 
+![Image of the splash screen for the phpvm CLI](https://github.com/user-attachments/assets/b957b72e-a6e1-4529-961b-45b0737d1992)
+
+
 ## Features
 
 - List available PHP versions
